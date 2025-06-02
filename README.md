@@ -36,7 +36,7 @@
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=binojmadhuranga&theme=dark&hide_border=false&layout=compact" alt="Top Languages" width="500"/>
    <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=binojmadhuranga&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" width="500"/>
-  <br/><br/>
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=binojmadhuranga&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" width="500"/>
+  <br/><br/> -->
   <img src="https://nirzak-streak-stats.vercel.app/?user=binojmadhuranga&theme=dark&hide_border=false" alt="GitHub Streak" width="500"/>
 </p>
