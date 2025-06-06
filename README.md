@@ -25,7 +25,8 @@
     🟧 <strong>HTML5</strong>  🟦 <strong>CSS3</strong>  💛 <strong>JavaScript</strong><br><br>
     ☕ <strong>Java</strong>  🔵 <strong>C</strong>  ⚛️ <strong>React / React Native</strong><br><br>
     🐍 <strong>Python</strong>  🧠 <strong>TensorFlow</strong>  🟩 <strong>Node.js</strong><br><br>
-    🌿 <strong>Spring Boot</strong>  ☁️ <strong>AWS</strong>  🐳 <strong>Docker</strong>  📮 <strong>Postman</strong>
+    🌿 <strong>Spring Boot</strong>  ☁️ <strong>AWS</strong>  🐳 <strong>Docker</strong>  📮 <strong>Postman</strong><br><br>
+    🐬 <strong>MySQL</strong>  🛠️ <strong>Hibernate</strong>
   </p>
 </div>
 
