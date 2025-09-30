@@ -23,13 +23,14 @@
 <div align="center">
   <p style="font-size: 1.2rem;">
     🟧 <strong>HTML5</strong>  🟦 <strong>CSS3</strong>  💛 <strong>JavaScript</strong>  🟪 <strong>Next.js</strong><br><br>
-    ☕ <strong>Java</strong>  🔵 <strong>C</strong>  ⚛️ <strong>React</strong>  📱 <strong>React Native</strong><br><br>
+    ☕ <strong>Java</strong>  🔵 <strong>C</strong>  ⚛️ <strong>React</strong>  📱 <strong>React Native</strong>  🟣 <strong>Expo</strong><br><br>
     🐍 <strong>Python</strong>  🧠 <strong>TensorFlow</strong>  🟩 <strong>Node.js</strong>  ⚡ <strong>Express.js</strong><br><br>
-    🌿 <strong>Spring Boot</strong>  🛠️ <strong>Hibernate</strong>  🧬 <strong>Prisma ORM</strong><br><br>
+    🌿 <strong>Spring Boot</strong>  🛠️ <strong>Hibernate</strong>  🧬 <strong>Prisma ORM</strong>  🔷 <strong>TypeScript</strong><br><br>
     ☁️ <strong>AWS</strong>  🐳 <strong>Docker</strong>  📮 <strong>Postman</strong><br><br>
     🐬 <strong>MySQL</strong>
   </p>
 </div>
+
 
 
 ---
