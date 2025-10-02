@@ -11,7 +11,7 @@
 
 ## 💫 About Me
 
-- 🔭 I’m currently working on ** Fullstack Projects with Java, JavaScript,Expo and Springboot**  
+- 🔭 I’m currently working on  Fullstack Projects with Java, JavaScript,Expo and Springboot .
 - 🌱 I’m learning **Spring Boot**, **React**, and exploring **AI/ML**  
 - 👯 I love collaborating on **Open Source Projects**  
 - 📫 Reach me on: [LinkedIn](https://www.linkedin.com/in/binoj-madhuranga)  
