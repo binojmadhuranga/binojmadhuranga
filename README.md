@@ -9,16 +9,21 @@
     alt="Animated Avatar" 
     style="border-radius: 50%;" 
   />
-  <br/> <a href="https://www.linkedin.com/in/binoj-madhuranga" target="_blank">
+  <br/>
+  <a href="https://www.linkedin.com/in/binoj-madhuranga" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
+
+
 --- 
 
 ## 💫 About Me
 
 - 🔭 I’m currently working on Fullstack Projects with Java, JavaScript, Expo and Springboot.
-- 🌱 I’m learning **Spring Boot**, **React**, and exploring **AI/ML** - 👯 I love collaborating on **Open Source Projects** - 📫 Reach me on: [LinkedIn](https://www.linkedin.com/in/binoj-madhuranga)  
+- 🌱 I’m learning **Spring Boot**, **React**, and exploring **AI/ML**
+- 👯 I love collaborating on **Open Source Projects**
+- 📫 Reach me on: [LinkedIn](https://www.linkedin.com/in/binoj-madhuranga)  
 
 ---
 
@@ -26,12 +31,12 @@
 
 <div align="center">
   <p style="font-size: 1.2rem;">
-    🟧 **HTML5**  🟦 **CSS3**  💛 **JavaScript**  🟪 **Next.js**<br><br>
-    ☕ **Java**  🔵 **C**  ⚛️ **React**  📱 **React Native**  🟣 **Expo**<br><br>
-    🐍 **Python**  🧠 **TensorFlow**  🟩 **Node.js**  ⚡ **Express.js**<br><br>
-    🌿 **Spring Boot**  🛠️ **Hibernate**  🧬 **Prisma ORM**  🔷 **TypeScript**<br><br>
-    ☁️ **AWS**  🐳 **Docker**  📮 **Postman**<br><br>
-    🐬 **MySQL**
+    🟧 HTML5  🟦 CSS3  💛 JavaScript  🟪 Next.js<br><br>
+    ☕ Java  🔵 C  ⚛️ React  📱 React Native  🟣 Expo<br><br>
+    🐍 Python  🧠 TensorFlow  🟩 Node.js  ⚡ Express.js<br><br>
+    🌿 Spring Boot  🛠️ Hibernate  🧬 Prisma ORM  🔷 TypeScript<br><br>
+    ☁️ AWS  🐳 Docker  📮 Postman<br><br>
+    🐬 MySQL
   </p>
 </div>
 
@@ -44,14 +49,16 @@
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=binojmadhuranga&theme=dark&hide_border=false&layout=compact" 
     alt="Top Languages" 
-    width="48%" 
+    width="80%" 
   />
+  <br/> <br/> 
   <img 
     src="https://nirzak-streak-stats.vercel.app/?user=binojmadhuranga&theme=dark&hide_border=false" 
     alt="GitHub Streak" 
-    width="48%" 
+    width="80%" 
   />
   
+  <br/>
   <br/> ## ⭐ Developer Milestones ⭐
 
   <img 
