@@ -3,10 +3,12 @@
 
 <div align="center">
   <img 
-    src="https://github-profile-trophy.vercel.app/?username=binojmadhuranga&theme=gruvbox&no-frame=true&no-bg=true" 
-    alt="GitHub Trophies"
+    src="https://i.postimg.cc/W1R4TF4j/d6kpuve-c97567cf-518b-4b86-a271-5c89d88d22f7.gif" 
+    width="120" 
+    height="120" 
+    alt="Animated Avatar" 
+    style="border-radius: 50%;" 
   />
-</div>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/binoj-madhuranga" target="_blank">
@@ -42,9 +44,18 @@
 
 
 ---
-
 ## 📊 GitHub Stats
 
+<div align="center">
+
+  ## ⭐ Developer Milestones ⭐
+
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=binojmadhuranga&theme=gruvbox&no-frame=true&no-bg=true" 
+    alt="GitHub Trophies"
+  />
+
+</div>
 
 <p align="center">
   <img 
