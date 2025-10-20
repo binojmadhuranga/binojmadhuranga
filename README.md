@@ -46,17 +46,6 @@
 ---
 ## 📊 GitHub Stats
 
-<div align="center">
-
-  ## ⭐ Developer Milestones ⭐
-
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=binojmadhuranga&theme=gruvbox&no-frame=true&no-bg=true" 
-    alt="GitHub Trophies"
-  />
-
-</div>
-
 <p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=binojmadhuranga&theme=dark&hide_border=false&layout=compact" 
@@ -71,3 +60,15 @@
     height="200"
   />
 </p>
+
+
+<div align="center">
+
+  ## ⭐ Developer Milestones ⭐
+
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=binojmadhuranga&theme=gruvbox&no-frame=true&no-bg=true" 
+    alt="GitHub Trophies"
+  />
+
+</div>
