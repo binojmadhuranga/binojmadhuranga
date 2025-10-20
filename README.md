@@ -3,7 +3,7 @@
 
 <div align="center">
   <img 
-    src="https://i.postimg.cc/W1R4TF4j/d6kpuve-c97567cf-518b-4b86-a271-5c89d88d22f7.gif" 
+    src="https://i.postimg.cc/pT3w508T/robot-head.gif" 
     width="120" 
     height="120" 
     alt="Animated Avatar" 
