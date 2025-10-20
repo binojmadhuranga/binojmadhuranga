@@ -3,12 +3,10 @@
 
 <div align="center">
   <img 
-    src="https://i.postimg.cc/pT3w508T/robot-head.gif" 
-    width="120" 
-    height="120" 
-    alt="Animated Avatar" 
-    style="border-radius: 50%;" 
+    src="https://github-profile-trophy.vercel.app/?username=binojmadhuranga&theme=gruvbox&no-frame=true&no-bg=true" 
+    alt="GitHub Trophies"
   />
+</div>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/binoj-madhuranga" target="_blank">
