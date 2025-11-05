@@ -31,15 +31,19 @@
 
 <div align="center">
 
-| 🟧 HTML5 | 🟦 CSS3 | 💛 JavaScript | 🟪 Next.js |
-|----------|---------|---------------|------------|
-| ☕ Java | 🔵 C | ⚛️ React | 📱 React Native |
-| 🟣 Expo | 🐍 Python | 🧠 TensorFlow | 🟩 Node.js |
-| ⚡ Express.js | 🌿 Spring Boot | 🛠️ Hibernate | 🧬 Prisma ORM |
-| 🔷 TypeScript | ☁️ AWS | 🐳 Docker | 📮 Postman |
-| 🐬 MySQL |     |     |     |
+| 🎨 Frontend | 🧠 Backend | 🗄️ Database & ORM | 🛠️ Tools / DevOps |
+|-------------|------------|-------------------|------------------|
+| 🟧 HTML5 | ☕ Java | 🐬 MySQL | ☁️ AWS |
+| 🟦 CSS3 | 🌿 Spring Boot | 🛠️ Hibernate | 🐳 Docker |
+| 💛 JavaScript | 🟩 Node.js | 🧬 Prisma ORM | 📮 Postman |
+| 🔷 TypeScript | ⚡ Express.js | 🍃 MongoDB |  |
+| 🟪 Next.js | 🐍 Python |  |  |
+| ⚛️ React | 🧠 TensorFlow |  |  |
+| 📱 React Native |  |  |  |
+| 🟣 Expo |  |  |  |
 
 </div>
+
 
 ---
 ## 📊 GitHub Stats
