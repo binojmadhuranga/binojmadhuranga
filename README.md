@@ -30,16 +30,16 @@
 ## 💻 Tech Stack
 
 <div align="center">
-  <p style="font-size: 1.2rem;">
-    🟧 HTML5  🟦 CSS3  💛 JavaScript  🟪 Next.js<br><br>
-    ☕ Java  🔵 C  ⚛️ React  📱 React Native  🟣 Expo<br><br>
-    🐍 Python  🧠 TensorFlow  🟩 Node.js  ⚡ Express.js<br><br>
-    🌿 Spring Boot  🛠️ Hibernate  🧬 Prisma ORM  🔷 TypeScript<br><br>
-    ☁️ AWS  🐳 Docker  📮 Postman<br><br>
-    🐬 MySQL
-  </p>
-</div>
 
+| 🟧 HTML5 | 🟦 CSS3 | 💛 JavaScript | 🟪 Next.js |
+|----------|---------|---------------|------------|
+| ☕ Java | 🔵 C | ⚛️ React | 📱 React Native |
+| 🟣 Expo | 🐍 Python | 🧠 TensorFlow | 🟩 Node.js |
+| ⚡ Express.js | 🌿 Spring Boot | 🛠️ Hibernate | 🧬 Prisma ORM |
+| 🔷 TypeScript | ☁️ AWS | 🐳 Docker | 📮 Postman |
+| 🐬 MySQL |     |     |     |
+
+</div>
 
 ---
 ## 📊 GitHub Stats
