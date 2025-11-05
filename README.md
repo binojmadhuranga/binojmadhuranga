@@ -36,10 +36,10 @@
 | 🟧 HTML5 | ☕ Java | 🐬 MySQL | ☁️ AWS |
 | 🟦 CSS3 | 🌿 Spring Boot | 🛠️ Hibernate | 🐳 Docker |
 | 💛 JavaScript | 🟩 Node.js | 🧬 Prisma ORM | 📮 Postman |
-| 🔷 TypeScript | ⚡ Express.js | 🍃 MongoDB |  |
-| 🟪 Next.js | 🐍 Python |  |  |
-| ⚛️ React | 🧠 TensorFlow |  |  |
-| 📱 React Native |  |  |  |
+| 🔷 TypeScript | ⚡ Express.js | 🍃 MongoDB | 🖥️ VS Code |
+| 🟪 Next.js | 🐍 Python |  | 🧰 IntelliJ IDEA |
+| ⚛️ React | 🧠 TensorFlow |  | 🐙 GitHub |
+| 📱 React Native |  |  | 🏗️ Jenkins |
 | 🟣 Expo |  |  |  |
 
 </div>
