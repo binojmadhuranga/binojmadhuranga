@@ -38,9 +38,9 @@
 | 💛 JavaScript | 🟩 Node.js | 🧬 Prisma ORM | 📮 Postman |
 | 🔷 TypeScript | ⚡ Express.js | 🍃 MongoDB | 🖥️ VS Code |
 | 🟪 Next.js | 🐍 Python |  | 🧰 IntelliJ IDEA |
-| ⚛️ React | 🧠 TensorFlow |  | 🐙 GitHub |
-| 📱 React Native |  |  | 🏗️ Jenkins |
-| 🟣 Expo |  |  |  |
+| ⚛️ React | 🔢 NumPy |  | 🐙 GitHub |
+| 📱 React Native | 📊 Pandas |  | 🏗️ Jenkins |
+| 🟣 Expo | 🧠 TensorFlow |  |  |
 
 </div>
 
