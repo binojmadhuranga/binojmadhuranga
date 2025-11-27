@@ -53,13 +53,13 @@
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=binojmadhuranga&theme=dark&hide_border=false&layout=compact" 
     alt="Top Languages" 
-    width="60%" 
+    width="75%" 
   />
   <br/> <br/>  <br/>
   <img 
     src="https://nirzak-streak-stats.vercel.app/?user=binojmadhuranga&theme=dark&hide_border=false" 
     alt="GitHub Streak" 
-    width="60%" 
+    width="75%" 
   />
   
   <br/>
