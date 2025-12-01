@@ -29,20 +29,55 @@
 
 ## 💻 Tech Stack
 
-<div align="center">
+<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px; row-gap: 18px;">
 
-| 🎨 Frontend | 🧠 Backend | 🗄️ Database & ORM | 🛠️ Tools / DevOps |
-|-------------|------------|-------------------|------------------|
-| 🟧 HTML5 | ☕ Java | 🐬 MySQL | ☁️ AWS |
-| 🟦 CSS3 | 🌿 Spring Boot | 🛠️ Hibernate | 🐳 Docker |
-| 💛 JavaScript | 🟩 Node.js | 🧬 Prisma ORM | 📮 Postman |
-| 🔷 TypeScript | ⚡ Express.js | 🍃 MongoDB | 🖥️ VS Code |
-| 🟪 Next.js | 🐍 Python |  | 🧰 IntelliJ IDEA |
-| ⚛️ React | 🔢 NumPy |  | 🐙 GitHub |
-| 📱 React Native | 📊 Pandas |  | 🏗️ Jenkins |
-| 🟣 Expo | 🧠 TensorFlow |  |  |
+  <!-- Frontend -->
+  <img src="https://skillicons.dev/icons?i=html" width="50"/>
+  <img src="https://skillicons.dev/icons?i=css" width="50"/>
+  <img src="https://skillicons.dev/icons?i=js" width="50"/>
+  <img src="https://skillicons.dev/icons?i=ts" width="50"/>
+  <img src="https://skillicons.dev/icons?i=react" width="50"/>
+  <img src="https://skillicons.dev/icons?i=nextjs" width="50"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" width="50"/>
+  <img src="https://skillicons.dev/icons?i=redux" width="50"/>
+  <img src="https://skillicons.dev/icons?i=figma" width="50"/>
 
-</div>
+  <!-- Mobile -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/expo/expo-original.svg" width="50"/>
+  <img src="https://skillicons.dev/icons?i=androidstudio" width="50"/>
+
+  <!-- Backend -->
+  <img src="https://skillicons.dev/icons?i=java" width="50"/>
+  <img src="https://skillicons.dev/icons?i=spring" width="50"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" width="50"/>
+  <img src="https://skillicons.dev/icons?i=express" width="50"/>
+  <img src="https://skillicons.dev/icons?i=python" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-plain.svg" width="50"/>
+
+  <!-- Database -->
+  <img src="https://skillicons.dev/icons?i=mysql" width="50"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" width="50"/>
+  <img src="https://skillicons.dev/icons?i=postgres" width="50"/>
+  <img src="https://skillicons.dev/icons?i=prisma" width="50"/>
+
+  <!-- ML -->
+  <img src="https://skillicons.dev/icons?i=tensorflow" width="50"/>
+  <img src="https://skillicons.dev/icons?i=pytorch" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50"/>
+
+  <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=docker" width="50"/>
+  <img src="https://skillicons.dev/icons?i=git" width="50"/>
+  <img src="https://skillicons.dev/icons?i=github" width="50"/>
+  <img src="https://skillicons.dev/icons?i=vscode" width="50"/>
+  <img src="https://skillicons.dev/icons?i=idea" width="50"/>
+  <img src="https://skillicons.dev/icons?i=postman" width="50"/>
+  <img src="https://skillicons.dev/icons?i=aws" width="50"/>
+  <img src="https://skillicons.dev/icons?i=jenkins" width="50"/>
+
+
+</p>
 
 
 ---
