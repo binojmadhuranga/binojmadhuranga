@@ -76,6 +76,7 @@
 <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="45"/><br>Node.js</td>
 <td align="center"><img src="https://skillicons.dev/icons?i=express" width="45"/><br>Express</td>
 <td align="center"><img src="https://skillicons.dev/icons?i=python" width="45"/><br>Python</td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="45"/><br>Flask</td>
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45"/><br>PHP</td>
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45"/><br>C</td>
 
