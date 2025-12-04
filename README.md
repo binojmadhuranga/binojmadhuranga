@@ -27,58 +27,115 @@
 
 ---
 
+
 ## 💻 Tech Stack
 
-<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px; row-gap: 18px;">
 
-  <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=html" width="50"/>
-  <img src="https://skillicons.dev/icons?i=css" width="50"/>
-  <img src="https://skillicons.dev/icons?i=js" width="50"/>
-  <img src="https://skillicons.dev/icons?i=ts" width="50"/>
-  <img src="https://skillicons.dev/icons?i=react" width="50"/>
-  <img src="https://skillicons.dev/icons?i=nextjs" width="50"/>
-  <img src="https://skillicons.dev/icons?i=tailwind" width="50"/>
-  <img src="https://skillicons.dev/icons?i=redux" width="50"/>
-  <img src="https://skillicons.dev/icons?i=figma" width="50"/>
-
-  <!-- Mobile -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/expo/expo-original.svg" width="50"/>
-  <img src="https://skillicons.dev/icons?i=androidstudio" width="50"/>
-
-  <!-- Backend -->
-  <img src="https://skillicons.dev/icons?i=java" width="50"/>
-  <img src="https://skillicons.dev/icons?i=spring" width="50"/>
-  <img src="https://skillicons.dev/icons?i=nodejs" width="50"/>
-  <img src="https://skillicons.dev/icons?i=express" width="50"/>
-  <img src="https://skillicons.dev/icons?i=python" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-plain.svg" width="50"/>
-
-  <!-- Database -->
-  <img src="https://skillicons.dev/icons?i=mysql" width="50"/>
-  <img src="https://skillicons.dev/icons?i=mongodb" width="50"/>
-  <img src="https://skillicons.dev/icons?i=postgres" width="50"/>
-  <img src="https://skillicons.dev/icons?i=prisma" width="50"/>
-
-  <!-- ML -->
-  <img src="https://skillicons.dev/icons?i=tensorflow" width="50"/>
-  <img src="https://skillicons.dev/icons?i=pytorch" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50"/>
-
-  <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=docker" width="50"/>
-  <img src="https://skillicons.dev/icons?i=git" width="50"/>
-  <img src="https://skillicons.dev/icons?i=github" width="50"/>
-  <img src="https://skillicons.dev/icons?i=vscode" width="50"/>
-  <img src="https://skillicons.dev/icons?i=idea" width="50"/>
-  <img src="https://skillicons.dev/icons?i=postman" width="50"/>
-  <img src="https://skillicons.dev/icons?i=aws" width="50"/>
-  <img src="https://skillicons.dev/icons?i=jenkins" width="50"/>
-
-
+<!-- 🎨 Frontend -->
+<h2 align="center">🎨 Frontend Development</h2>
+<p align="center">
+<table align="center">
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=html" width="45"/><br>HTML</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=css" width="45"/><br>CSS</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=js" width="45"/><br>JavaScript</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=ts" width="45"/><br>TypeScript</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=react" width="45"/><br>React</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=nextjs" width="45"/><br>Next.js</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="45"/><br>Tailwind</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=redux" width="45"/><br>Redux</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=figma" width="45"/><br>Figma</td>
+</tr>
+</table>
 </p>
 
+<br/>
+
+<!-- 📱 Mobile -->
+<h2 align="center">📱 Mobile Development</h2>
+<p align="center">
+<table align="center">
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=react" width="45"/><br>React Native</td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/expo/expo-original.svg" width="45"/><br>Expo</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=androidstudio" width="45"/><br>Android Studio</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="45"/><br>NativeWind</td>
+</tr>
+</table>
+</p>
+
+<br/>
+
+<!-- ⚙️ Backend -->
+<h2 align="center">⚙️ Backend Development</h2>
+<p align="center">
+<table align="center">
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=java" width="45"/><br>Java</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=spring" width="45"/><br>Spring Boot</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="45"/><br>Node.js</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=express" width="45"/><br>Express</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=python" width="45"/><br>Python</td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45"/><br>PHP</td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45"/><br>C</td>
+
+
+</tr>
+</table>
+</p>
+
+<br/>
+
+<!-- 🗄️ Databases -->
+<h2 align="center">🗄️ Databases & ORMs</h2>
+<p align="center">
+<table align="center">
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="45"/><br>MySQL</td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-plain.svg" width="45"/><br>Hibernate</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="45"/><br>MongoDB</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="45"/><br>PostgreSQL</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=prisma" width="45"/><br>Prisma</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=sequelize" width="45"/><br>Sequelize</td>
+</tr>
+</table>
+</p>
+
+<br/>
+
+<!-- 🧠 AI/ML -->
+<h2 align="center">🧠 Machine Learning / AI</h2>
+<p align="center">
+<table align="center">
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=tensorflow" width="45"/><br>TensorFlow</td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45"/><br>NumPy</td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45"/><br>Pandas</td>
+<td align="center"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/onnx.svg" width="45"/><br>ONNX</td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecolab/googlecolab-original.svg" width="45"/><br>Google Colab</td>
+</tr>
+</table>
+</p>
+
+<br/>
+
+<!-- 🛠 Tools -->
+<h2 align="center">🛠️ Tools, DevOps & Environment</h2>
+<p align="center">
+<table align="center">
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=docker" width="45"/><br>Docker</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=git" width="45"/><br>Git</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=github" width="45"/><br>GitHub</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="45"/><br>VS Code</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=idea" width="45"/><br>IntelliJ</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=postman" width="45"/><br>Postman</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=aws" width="45"/><br>AWS</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=jenkins" width="45"/><br>Jenkins</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=linux" width="45"/><br>Linux</td>
+</tr>
+</table>
+</p>
 
 ---
 ## 📊 GitHub Stats
