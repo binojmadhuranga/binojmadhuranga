@@ -44,6 +44,26 @@
 <td align="center"><img src="https://skillicons.dev/icons?i=nextjs" width="45"/><br>Next.js</td>
 <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="45"/><br>Tailwind</td>
 <td align="center"><img src="https://skillicons.dev/icons?i=redux" width="45"/><br>Redux</td>
+<td align="center">
+  <div style="
+    width:45px;
+    height:45px;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    background:#0f172a;
+    color:#e5e7eb;
+    border-radius:8px;
+    font-weight:800;
+    font-size:18px;
+    font-family:Arial, sans-serif;
+    line-height:1;
+    text-align:center;
+  ">
+    <strong>Z</strong>
+  </div>
+  <br>Zustand
+</td>
 <td align="center"><img src="https://skillicons.dev/icons?i=figma" width="45"/><br>Figma</td>
 </tr>
 </table>
@@ -160,10 +180,6 @@
 
 </div>
 
-## 🏆 Developer Milestones
- <br/> <br/>
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=binojmadhuranga&theme=gruvbox&no-frame=true&no-bg=true" 
-    alt="GitHub Trophies"
-  />
+## 🔥 Contribution Activity
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=binojmadhuranga&theme=github-dark&hide_border=true" />
