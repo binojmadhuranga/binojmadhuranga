@@ -163,11 +163,16 @@
 
 <div align="center">
   
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=binojmadhuranga&theme=dark&hide_border=false&layout=compact" 
-    alt="Top Languages" 
-    width="67%" 
+<div align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=binojmadhuranga&theme=github_dark"
+    style="width:57%;"
+    alt="Most Commit Language"
   />
+</div>
+
+
+
   <br/> <br/>  <br/>
   <img 
     src="https://nirzak-streak-stats.vercel.app/?user=binojmadhuranga&theme=dark&hide_border=false" 
