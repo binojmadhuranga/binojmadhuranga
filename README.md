@@ -21,7 +21,7 @@
 ## 💫 About Me
 
 - 🔭 I’m currently working on Fullstack Projects with Java, JavaScript,TypeScript, Springboot,Next.js and Expo.
-- 🌱 I’m learning **Spring Boot**,**.NET**, **React**, and exploring **AI/ML**
+- 🌱 I’m learning **Spring Boot**, **.NET**, **React**, and exploring **AI/ML**
 - 👯 I love collaborating on **Open Source Projects**
 - 📫 Reach me on: [LinkedIn](https://www.linkedin.com/in/binoj-madhuranga)  
 
