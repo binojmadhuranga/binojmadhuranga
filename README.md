@@ -175,15 +175,6 @@
 
 
 
-  <br/> <br/>  <br/>
-  <img 
-    src="https://nirzak-streak-stats.vercel.app/?user=binojmadhuranga&theme=dark&hide_border=false" 
-    alt="GitHub Streak" 
-    width="67%" 
-  />
-  
-  <br/>
-  <br/> <br/> 
 
 </div>
 
