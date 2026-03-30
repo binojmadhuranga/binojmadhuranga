@@ -171,9 +171,17 @@
     style="width:57%;"
     alt="Most Commit Language"
   />
+</div></div></div></div>
+
+<div align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=binojmadhuranga&theme=github-dark&hide_border=true"
+    style="width:57%;"
+    alt="GitHub Streak"
+  />
 </div>
 
-
+</div>
 
 
 </div>
