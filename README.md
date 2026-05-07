@@ -99,6 +99,7 @@
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="45"/><br>Flask</td>
 <td align="center"><img src="https://skillicons.dev/icons?i=cs" width="45"/><br> C#</td>
 <td align="center"><img src="https://skillicons.dev/icons?i=dotnet" width="45"/><br>ASP.NET</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=go" width="45"/><br>Go</td>
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45"/><br>PHP</td>
 <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45"/><br>C</td>
 
