@@ -42,6 +42,7 @@
 <td align="center"><img src="https://skillicons.dev/icons?i=ts" width="45"/><br>TypeScript</td>
 <td align="center"><img src="https://skillicons.dev/icons?i=react" width="45"/><br>React</td>
 <td align="center"><img src="https://skillicons.dev/icons?i=nextjs" width="45"/><br>Next.js</td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=angular" width="45"/><br>Angular</td>
 <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="45"/><br>Tailwind</td>
 <td align="center"><img src="https://skillicons.dev/icons?i=redux" width="45"/><br>Redux</td>
 <td align="center">
