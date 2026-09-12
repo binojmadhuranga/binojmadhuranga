@@ -188,6 +188,3 @@
 
 </div>
 
-## 🔥Contribution Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=binojmadhuranga&theme=github-dark&hide_border=true" />
